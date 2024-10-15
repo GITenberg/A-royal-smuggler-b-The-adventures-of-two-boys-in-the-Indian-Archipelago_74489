@@ -5,6 +5,9 @@ contributor:
     agent_name: Werntz, Carl
     gutenberg_agent_id: '57524'
     url: http://www.gutenberg.org/2009/agents/57524
+covers:
+- cover_type: archival
+  image_path: 74489-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Dalton, William
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39873
     wikipedia: https://en.wikipedia.org/wiki/William_Dalton_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74489#A-royal-smuggler-b-The-adventures-of-two-boys-in-the-Indian-Archipelago
 gutenberg_issued: '2024-09-28'
 gutenberg_type: Text
 identifiers:
